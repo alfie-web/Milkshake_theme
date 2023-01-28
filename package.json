@@ -1,0 +1,25 @@
+{
+  "name": "milkshake",
+  "displayName": "Milkshake theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "author": {
+    "name": "Alferov Dmitriy",
+    "email": "alfie-web@ya.ru"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Milkshake theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Milkshake-color-theme.json"
+      }
+    ]
+  }
+}
