@@ -2,10 +2,21 @@
   "name": "milkshake",
   "displayName": "Milkshake theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "license": "UNLICENSED",
+  "publisher": "alfie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfie-web/Milkshake_theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimal"
+  ],
   "author": {
     "name": "Alferov Dmitriy",
     "email": "alfie-web@ya.ru"

@@ -371,7 +371,7 @@
 		{
 			"name": "Language methods",
 			"scope": [
-				"variable.language"
+				"variable.language",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -478,6 +478,7 @@
 			"scope": [
 				"variable.other.property.js",
 				"variable.other.object.property.js",
+				"meta.object-literal.key.js"
 			],
 			"settings": {
 				"foreground": "#FE7698"
