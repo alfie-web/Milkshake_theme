@@ -1,4 +1,4 @@
-# alfie-theme README
+# Milkshake-theme README
 
 ## Working with Markdown
 
